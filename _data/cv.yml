@@ -2,29 +2,23 @@
   type: map
   contents:
     - name: Full Name
-      value: Junshen Xu
+      value: Satwik Kundu
     #- name: Date of Birth
     #  value: 14th March 1879
     - name: Email
-      value: junshen [at] mit [dot] edu
+      value: satwik [at] psu [dot] edu
     - name: Languages
-      value: English, Chinese
+      value: English, Bengali, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Electrical Engineering and Computer Science
-      institution: Massachusetts Institute of Technology
-      year: 2018 - 2023
-    - title: S.M. in Electrical Engineering and Computer Science
-      institution: Massachusetts Institute of Technology
-      year: 2018 - 2020
-      #description:
-      #  - Description 1.
-      #  - Description 2.
-    - title: B.E. in Engineering Physics
-      institution: Tsinghua University
-      year: 2014 - 2018
+    - title: Ph.D. in Computer Science and Engineering
+      institution: Pennsylvania State University
+      year: 2021 - 2025
+    - title: B.E. in Information Technology
+      institution: Jadavpur University
+      year: 2017 - 2021
       #description:
       #  - Description 1.
       #  - Description 2.
@@ -33,34 +27,23 @@
   type: time_table
   contents:
     - title: Research Assistant
-      institution: Massachusetts Institute of Technology
-      year: 2018 - present
+      institution: Pennsylvania State University
+      year: 2021 - present
       description:
-        - 2D-to-3D reconstruction
-        - Image quality assessment
-        - 3D pose estimation pipeline for fetal MRI
-    - title: Machine Learning Engineer Intern
-      institution: Instagram Reels Core Ranking @ Meta
-      year: May - Aug 2022
+        - Adversarial attacks and defenses in Quantum Machine Learning (QML)
+        - Improve efficiency of VQAs
+        - Application of QML in hardware security
+    - title: Research Intern
+      institution: IIT Kharagpur
+      year: June - Nov 2020
       description:
-        - Mitigated short video bias in Reels
-    - title: Software Engineer Intern
-      institution: Adwords Insights Team @ Google
-      year: Jun - Aug 2021
+        - Addressing microarchitectural security challenges in Docker containers
+    - title: Undergraduate Researcher
+      institution: Jadavpur University
+      year: Nov 2019 - May 2021
       description:
-        - Improved keyword classification in search ads
-        - Developed algorithms to detect the cold start of bidding strategies
-    - title: Research Scientist Intern
-      institution: United Imaging Intellignece America
-      year: Jun - Aug 2020
-      description:
-        - Multi-modal image registration with neural ODE
-        - Differentiable Digitally Reconstructed Radiograph (DRR)
-    - title: Research Assistant
-      institution: Stanford University
-      year: Jun - Aug 2017
-      description:
-        - Low dose PET reconstruction with deep learning
+        - Developed Language Identification (LID) system for Indian languages
+        - Facial expression recognition using deep learning
 
 # - title: Open Source Projects
 #   type: time_table

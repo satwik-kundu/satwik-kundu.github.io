@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-04-25 07:59:00-0400
+date: 2024-10-25
 inline: true
 ---
 
-We just released [NeSVoR](https://github.com/daviddmc/NeSVoR) v0.2.0. Check it out!
+I will give a talk on "Security of Quantum Machine Learning" at [QCCS](https://caslab.io/events/qccs/) 2024.

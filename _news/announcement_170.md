@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-04-19 07:59:00-0400
+date: 2024-09-16
 inline: true
 ---
 
-I successfully defended my doctoral thesis today!
+Our paper entitled "Security Concerns in Quantum Machine Learning as a Service" has been accepted at HASP 2024!
