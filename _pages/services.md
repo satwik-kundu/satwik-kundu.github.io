@@ -10,7 +10,7 @@ nav_order: 4
 
 <!-- ### Reviewer
 
-- **Quantum Computing and Engineering (QCE)**: 2023, 2024
+- **International Conference on Quantum Computing and Engineering (QCE)**: 2023, 2024
 
 ---
 
@@ -34,7 +34,7 @@ nav_order: 4
   <div class="timeline-item">
     <h3>Reviewer</h3>
     <ul>
-      <li><span class="conference-details">Quantum Computing and Engineering (QCE): 2023, 2024</span></li>
+      <li><span class="conference-details">International Conference on Quantum Computing and Engineering (QCE): 2023, 2024</span></li>
     </ul>
   </div>
   <div class="timeline-item">
