@@ -8,7 +8,7 @@ nav_order: 5
 
 ---
 
-##  Penn State
+##  <span style="color: var(--global-theme-color);"> Penn State </span>
 
 ---
 
