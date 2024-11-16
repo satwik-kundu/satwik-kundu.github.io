@@ -30,20 +30,20 @@
       institution: Pennsylvania State University
       year: 2021 - present
       description:
-        - Adversarial attacks and defenses in Quantum Machine Learning (QML)
-        - Improve efficiency of VQAs
-        - Application of QML in hardware security
+        - Adversarial attacks and defenses in Quantum Machine Learning (QML).
+        - Improve efficiency of VQAs.
+        - Application of QML in hardware security.
     - title: Research Intern
       institution: IIT Kharagpur
       year: June - Nov 2020
       description:
-        - Addressing microarchitectural security challenges in Docker containers
+        - Addressing microarchitectural security challenges in Docker containers.
     - title: Undergraduate Researcher
       institution: Jadavpur University
       year: Nov 2019 - May 2021
       description:
-        - Developed Language Identification (LID) system for Indian languages
-        - Facial expression recognition using deep learning
+        - Developed Language Identification (LID) system for Indian languages.
+        - Facial expression recognition using deep learning.
 
 # - title: Open Source Projects
 #   type: time_table
