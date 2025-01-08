@@ -7,7 +7,7 @@ subtitle: # PhD Candidate
 profile:
   align: right
   image: profile-photo.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>W209 Westgate Building </p>
     <p>University Park, PA</p>
@@ -26,5 +26,5 @@ against adversarial threats, improving the efficiency of variational quantum alg
 and exploring the intersection of quantum computing and hardware security.
 
 Before joining Penn State, I received my bachelor's degree from Jadavpur University in 2021. 
-Throughout my academic journey, I have contributed to diverse projects, 
+Throughout my academic journey, I have worked on various projects, 
 from creating facial expression recognition models to addressing microarchitectural security challenges in Docker containers.

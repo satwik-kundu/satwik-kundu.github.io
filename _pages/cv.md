@@ -4,5 +4,5 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 7
-cv_pdf: 
+cv_pdf: Satwik_Kundu_Resume.pdf
 ---

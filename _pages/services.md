@@ -34,6 +34,7 @@ nav_order: 4
   <div class="timeline-item">
     <h3>Reviewer</h3>
     <ul>
+      <li><span class="conference-details">Computer Architecture Letters (CAL): 2025 </span></li>
       <li><span class="conference-details">International Conference on Quantum Computing and Engineering (QCE): 2023, 2024</span></li>
     </ul>
   </div>
