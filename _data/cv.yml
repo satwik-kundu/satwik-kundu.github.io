@@ -26,9 +26,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant
+    - title: Graduate Research Assistant
       institution: Pennsylvania State University
-      year: 2021 - present
+      year: Aug 2021 - present
       description:
         - Adversarial attacks and defenses in Quantum Machine Learning (QML).
         - Improve efficiency of VQAs.
