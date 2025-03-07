@@ -15,7 +15,7 @@
   contents:
     - title: Ph.D. in Computer Science and Engineering
       institution: Pennsylvania State University
-      year: 2021 - 2025
+      year: 2021 - Present
     - title: B.E. in Information Technology
       institution: Jadavpur University
       year: 2017 - 2021
@@ -28,22 +28,22 @@
   contents:
     - title: Graduate Research Assistant
       institution: Pennsylvania State University
-      year: Aug 2021 - present
+      year: 08/2021 - present
       description:
-        - Adversarial attacks and defenses in Quantum Machine Learning (QML).
-        - Improve efficiency of VQAs.
-        - Application of QML in hardware security.
+        - Adversarial attacks and defenses in quantum machine learning (QML).
+        - Improved optimization efficiency of variational quantum algorithms (VQAs).
+        - Explored applications of QML in hardware security.
     - title: Research Intern
       institution: IIT Kharagpur
-      year: June - Nov 2020
+      year: 06/2020 - 11/2020
       description:
-        - Addressing microarchitectural security challenges in Docker containers.
+        - Evaluated microarchitectural security challenges in Docker containers.
     - title: Undergraduate Researcher
       institution: Jadavpur University
-      year: Nov 2019 - May 2021
+      year: 11/2019 - 05/2021
       description:
-        - Developed Language Identification (LID) system for Indian languages.
-        - Facial expression recognition using deep learning.
+        - Developed language identification (LID) system for Indian languages.
+        - Designed a CNN-based facial expression recognition framework.
 
 # - title: Open Source Projects
 #   type: time_table
@@ -52,16 +52,17 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      title: IBM Quantum Credits
+      items: 
+        - Received $70,000 credits from IBM for my research works. 
+    - year: 2022
+      title: Graduate Research Award
+      items: 
+        - One of two students to receive the award at Penn State.
 
 # - title: Academic Interests
 #   type: nested_list

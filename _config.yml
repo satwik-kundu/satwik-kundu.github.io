@@ -6,8 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Satwik
 middle_name: 
 last_name: Kundu
-# chinese_last_name: 徐
-# chinese_first_name: 俊燊
+# bengali_last_name: কুন্ডু
+# bengali_first_name: সাত্ত্বিক
 email: satwik@psu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to Satwik Kundu's personal website!

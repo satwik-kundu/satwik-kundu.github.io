@@ -37,11 +37,6 @@ nav_order: 4
       <li><span class="conference-details">Elsevier Neurocomputing: 2025 </span></li>
       <li><span class="conference-details">Computer Architecture Letters (CAL): 2025 </span></li>
       <li><span class="conference-details">International Conference on Quantum Computing and Engineering (QCE): 2023, 2024</span></li>
-    </ul>
-  </div>
-  <div class="timeline-item">
-    <h3>Sub-reviewer</h3>
-    <ul>
       <li><span class="conference-details">International Symposium on Microarchitecture (MICRO): 2022, 2023, 2024</span></li>
       <li><span class="conference-details">International Symposium on Computer Architecture (ISCA): 2024</span></li>
       <li><span class="conference-details">Design Automation and Test in Europe (DATE): 2024, 2025</span></li>

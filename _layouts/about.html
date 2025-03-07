@@ -10,9 +10,9 @@ layout: default
       <span style="font-weight: 500">{{ site.first_name }}</span>
       {{ site.middle_name }}
       {{ site.last_name }}&nbsp;&nbsp;<br class="d-md-none">
-      {%- if site.chinese_first_name and site.chinese_last_name -%}
-      ({{ site.chinese_last_name }}
-      <span style="font-weight: 500">{{ site.chinese_first_name }}</span>)
+      {%- if site.bengali_first_name and site.bengali_last_name -%}
+      (<span style="font-weight: 500">{{ site.bengali_first_name }}</span>
+      {{ site.bengali_last_name }})
       {%- endif -%}
       {%- else -%}
       {{ site.title }}
@@ -64,7 +64,7 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers -%}
-    <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Recent publications</a></h2>
+    <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Recent Publications</a></h2>
     {%- include selected_papers.html %}
     {%- endif %}
 
