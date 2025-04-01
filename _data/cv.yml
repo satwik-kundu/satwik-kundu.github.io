@@ -28,7 +28,7 @@
   contents:
     - title: Graduate Research Assistant
       institution: Pennsylvania State University
-      year: 08/2021 - present
+      year: 08/2021 - Present
       description:
         - Adversarial attacks and defenses in quantum machine learning (QML).
         - Improved optimization efficiency of variational quantum algorithms (VQAs).
@@ -55,6 +55,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      title: Best Paper Nomination
+      items: 
+        - Selected for Best Paper and Best Student Paper Awards at HOST 2025. 
     - year: 2024
       title: IBM Quantum Credits
       items: 
