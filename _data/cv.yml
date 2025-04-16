@@ -56,7 +56,7 @@
   type: time_table
   contents:
     - year: 2025
-      title: Best Paper Nomination
+      title: Best Paper Finalist
       items: 
         - Selected for Best Paper and Best Student Paper Awards at HOST 2025. 
     - year: 2024
@@ -67,6 +67,14 @@
       title: Graduate Research Award
       items: 
         - One of two students to receive the award at Penn State.
+    - year: 2015
+      title: Gold Medal
+      items: 
+        -  International Olympiad of Mathematics (iOM).
+    - year: 2015
+      title: Silver and Bronze Medal
+      items: 
+        - International Young Mathematicians Convention (IYMC).
 
 # - title: Academic Interests
 #   type: nested_list
