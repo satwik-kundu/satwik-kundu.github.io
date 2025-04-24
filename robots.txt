@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://satwik-kundu.github.io//sitemap.xml
+Sitemap: https://satwik-kundu.me//sitemap.xml
