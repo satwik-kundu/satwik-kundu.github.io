@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Satwik Kundu, currently a fourth-year Ph.D. student in Computer Science and Engineering at [Penn State](https://www.psu.edu/), specializing in quantum computing, machine learning and security. 
-I am advised by [Dr. Swaroop Ghosh](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=szg212). 
+Hi! I am Satwik, currently a fourth-year Ph.D. candidate in Computer Science and Engineering at [Penn State](https://www.psu.edu/), specializing in quantum computing, machine learning and security. 
+I am advised by [Prof. Swaroop Ghosh](https://www.eecs.psu.edu/departments/directory-detail-g.aspx?q=szg212). 
 My research focuses on developing frameworks to enhance the security of quantum neural networks (QNNs) 
 against adversarial threats, improving the efficiency of variational quantum algorithms (VQAs), 
 and exploring applications of VQAs.

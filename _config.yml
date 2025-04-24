@@ -8,18 +8,18 @@ middle_name:
 last_name: Kundu
 # bengali_last_name: কুন্ডু
 # bengali_first_name: সাত্ত্বিক
-email: satwik@psu.edu
+email: mail@satwik-kundu.me
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Welcome to Satwik Kundu's personal website!
+  Welcome to Satwik's personal website!
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: satwik kundu, quantum computing, quantum machine learning, security, noise mitigation, quantum error correction  # add your own keywords or leave empty
+keywords: satwik kundu, quantum computing, quantum machine learning, quantum compilation, security, noise mitigation, quantum error correction  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico #🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: "https://satwik-kundu.github.io/" # the base hostname & protocol for your site
+url: "https://satwik-kundu.me/" # the base hostname & protocol for your site
 baseurl: "" #/al-folio # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -76,7 +76,7 @@ github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: satwikkundu # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: satwikkundu # your LinkedIn user name
+linkedin_username: satwik-kundu # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: gR8ZZpwAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -185,7 +185,7 @@ announcements:
 latest_posts:
   enabled: false
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 4 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
