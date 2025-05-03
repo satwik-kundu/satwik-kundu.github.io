@@ -7,7 +7,7 @@ subtitle: # PhD Candidate
 profile:
   align: right
   image: profile-photo.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>W209 Westgate Building </p>
     <p>University Park, PA</p>
