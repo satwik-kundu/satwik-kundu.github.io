@@ -14,7 +14,7 @@ nav_order: 5
 
 - **CMPSC 132: Object-Oriented Programming and Data Structures**
     - *Role* : Graduate Teaching Assistant
-    - *Term* : Spring 2022
+    - *Term* : Spring 2022, Fall 2025, Spring 2026
 
 ---
 

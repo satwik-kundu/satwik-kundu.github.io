@@ -6,7 +6,7 @@
     #- name: Date of Birth
     #  value: 14th March 1879
     - name: Email
-      value: mail [at] satwik-kundu [dot] me
+      value: satwik [dot] kundu [dot] cs [at] gmail [dot] com
     - name: Languages
       value: English, Bengali, Hindi
 
@@ -30,6 +30,7 @@
       institution: Pennsylvania State University
       year: 08/2021 - Present
       description:
+        - Worked on reverse engineering quantum compilers' optimization passes.
         - Adversarial attacks and defenses in quantum machine learning (QML).
         - Improved optimization efficiency of variational quantum algorithms (VQAs).
         - Explored applications of QML in hardware security.

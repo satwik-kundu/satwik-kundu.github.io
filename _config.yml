@@ -8,7 +8,7 @@ middle_name:
 last_name: Kundu
 # bengali_last_name: কুন্ডু
 # bengali_first_name: সাত্ত্বিক
-email: mail@satwik-kundu.me
+email: satwik.kundu.cs@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to Satwik's personal website!
 footer_text: >
@@ -74,7 +74,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: satwikkundu # your Twitter handle
+twitter_username: # satwikkundu # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: satwik-kundu # your LinkedIn user name
 telegram_username: # your Telegram user name
